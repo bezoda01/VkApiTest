@@ -1,0 +1,19 @@
+{
+  "config": {
+    "browser":{
+      "type": "chrome",
+      "url": "https://vk.com/"
+    },
+    "api": {
+      "apiUrl": "https://api.vk.com/method/",
+      "apiVersion": "5.131",
+      "token": "",
+      "filePath": "src/main/resources/2022-03-25 16.59.40.jpg"
+    },
+    "vkCred":{
+      "userId": "",
+      "login": "",
+      "password": ""
+    }
+  }
+}
